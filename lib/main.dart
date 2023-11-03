@@ -17,8 +17,8 @@ Future main() async {
   if (kIsWeb) {
     await Firebase.initializeApp(
         options: FirebaseOptions(
-            apiKey: "AIzaSyDq5Q-bXabULdHig8pIG0NW7T5BU6DBhds",
-            appId: "1:674501955018:web:0093b49dfeb32f135c9333",
+            apiKey: "BLAH BLAH",
+            appId: "BLAH BLAH",
             messagingSenderId: "674501955018",
             projectId: "mini-87efb",
             authDomain: "mini-87efb.firebaseapp.com",
