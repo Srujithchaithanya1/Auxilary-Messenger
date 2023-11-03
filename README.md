@@ -17,7 +17,6 @@ https://flutter.dev/docs, which offers
 https://github.com/Srujithchaithanya1/Auxilary-Messenger/assets/84473285/c8a2effd-88ca-43dc-a8e5-f2089a25a062
 
 
-https://github.com/Srujithchaithanya1/Auxilary-Messenger/assets/84473285/33556a86-bb5b-4c01-b74a-ee1929a3793c
 
 
  tutorials,
